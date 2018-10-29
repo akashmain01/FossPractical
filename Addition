@@ -1,0 +1,6 @@
+#Addition of two Numbers
+
+a=int(input("Enter First Numbers"))
+b=int(input("Enter second Number"))
+c=a+b
+print("Addition of Two Numbers is ",c)
